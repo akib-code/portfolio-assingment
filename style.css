@@ -74,4 +74,7 @@ section{
     clear: both;
     display: table;
   }
+  .last-part{
+      text-align: center;
+  }
   
